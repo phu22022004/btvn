@@ -1,0 +1,12 @@
+span{
+    color: yellow;
+}
+h1,h2{color: blue;}
+a
+{color: brown;}
+p{
+    font-style:italic;
+}
+*{
+    background-color: rgb(66, 55, 38);
+}
